@@ -1,0 +1,106 @@
+{
+    "expense_categories": {
+        "Amazon Goods": [
+            "AMAZON RETA",
+            "AMAZON MKTPL"
+        ],
+        "Amazon Prime Membership 1xYear": [
+            "Amazon Prime"
+        ],
+        "Car Uber": [
+            "UBER "
+        ],
+        "Card interest - remove!": [
+            "INTEREST CHARGED "
+        ],
+        "Food Costco": [
+            "COSTCO WHSE"
+        ],
+        "Food Walmart": [
+            "WM SUPERCENTER",
+            "WAL-MART"
+        ],
+        "Food HMart": [
+            "H MART"
+        ],
+        "Food Fresh": [
+            "THE FRESH MARKET"
+        ],
+        "Food Teeter": [
+            "HARRIS TEETER"
+        ],
+        "Food Trader": ["TRADER JOE"],
+        "Food Publix":["PUBLIX SUPER"],
+        "Food WholeFoods":["WHOLEFDS"],
+        "Food Target": ["TARGET"],
+        "Food Seafood": ["CAPITAL SEAFOO"],
+        "Car Gas": [
+            "EXXON",
+            "COSTCO GAS"
+        ],
+        "House Lawn 1xYear": [
+            "SPRING-GREEN LAWN"
+        ],
+        "House Materials": [
+            "THE HOME DEPOT"
+        ],
+        "Prev Card Payment": [
+            "BA ELECTRONIC PAYMENT",
+            "PAYMENT - THANK YOU"
+        ],
+        "House Ikea": [
+            "IKEA"
+        ],
+        "Subscription WYZECam": [
+            "WYZEAPPANDROID"
+        ],
+        "Subscription Alarm": [
+            "ALARM GRID"
+        ],
+        "Yulia Scating Ice": [
+            "POLAR ICE"
+        ],
+        "House HOA": [
+            "Carramore HomeowASSN DUES"
+        ],
+        "Util Gas": [
+            "DOMINION ENERGY"
+        ],
+        "Util Electric": [
+            "DUKEENERGY"
+        ],
+        "House Mortgage and Insurance": [
+            "PENNYMAC"
+        ],
+        "ATM to Cash": [
+            "WITHDRAWAL FROM ATM"
+        ],
+        "Wage": [
+            "COOL TECH DIRECT DEP"
+        ],
+        "Travel": [
+            "AIRBNB",
+            "INSUREMYTRIP"
+        ],
+        "BOA Credit Card Payment": [
+            "BANK OF AMERICA ONLINE PMT"
+        ]
+    },
+    "monthly_expenses": [
+        "Alarm",
+        "Amazon Goods",
+        "Subscription",
+        "Gas",
+        "Food",
+        "Util",
+        "Yulia Skating",
+        "Insurance",
+        "House HOA"
+    ],
+    "exlude_categories": [
+        "BOA Credit Card Payment",
+        "Prev Card Payment",
+        "Transfer to another joint acc",
+        "IRS Tax Paid"
+    ]
+}
